@@ -5,4 +5,4 @@ This is a talk I gave in Advanced Biostatistics at McGill. The goal was to provi
 
 
 Slides:
-[BayesianBiologist](http://bayesianbiologist.com/2012/10/18/introduction-t…-guest-lecture/)
+[BayesianBiologist](http://bayesianbiologist.com/2012/10/18/introduction-to-bayesian-methods-guest-lecture/)
